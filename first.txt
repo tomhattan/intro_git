@@ -3,3 +3,4 @@ git‚Ì—ûK‚Å‚·
 git add
 git commit
 git rm
+git status
